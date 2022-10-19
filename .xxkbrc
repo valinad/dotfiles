@@ -1,0 +1,13 @@
+XXkb.image.path: /usr/share/xxkb
+XXkb.mainwindow.type: tray
+XXkb.group.base: 1
+XXkb.group.alt: 2
+XXkb.mainwindow.enable:  no
+XXkb.mainwindow.appicon:  no
+XXkb.button.enable:  no
+XXkb.app_list.wm_class_name.start_alt: skype
+XXkb.controls.add_when_start: yes
+XXkb.controls.add_when_create: yes
+XXkb.controls.add_when_change: no
+XXkb.controls.focusout: no
+XXkb.mainwindow.label.enable: no
